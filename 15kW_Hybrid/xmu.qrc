@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>xmu.ico</file>
+        <file>xmu-logo.ico</file>
+    </qresource>
+</RCC>
